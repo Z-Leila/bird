@@ -1,0 +1,23 @@
+body{
+    margin:0;
+    background: rgb(163,167,140);
+}
+.sence{
+    width:320px;
+    height:480px;
+    position: absolute;
+    margin: auto;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    border:1px solid black;
+    border-right-width:2px;
+    border-left-width:2px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/*canvas{*/
+    /*display:block;*/
+/*}*/
